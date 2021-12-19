@@ -21,10 +21,10 @@ class HeaderComponent extends Component {
                             <a href="#/" style={{marginLeft:"120px"}}  class="navbar-brand text-white">Desafio</a>
                             <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
                                 <li class="nav-item">
-                                    <a class="nav-link text-white" href="https://api-desafio-alugar-carro.herokuapp.com/veiculos">Carros</a>
+                                    <a class="nav-link text-white" href="/veiculos">Carros</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link text-white" href="https://api-desafio-alugar-carro.herokuapp.com/alugarVeiculos">Carros alugados</a>
+                                    <a class="nav-link text-white" href="/alugarVeiculos">Carros alugados</a>
                                 </li>
                             </ul>
 
